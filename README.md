@@ -1,2 +1,2 @@
 # Lab1_DanilovMN
-Preparing a project for testing, working with control system, logging and debugging.
+Calculation of the view triangle and its vertex coordinates.
