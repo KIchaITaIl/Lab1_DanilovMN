@@ -13,3 +13,7 @@ G:\DanilovMN\Vorozheikin\Triangle_1lab\obj\Debug\net6.0\refint\Triangle_1lab.dll
 G:\DanilovMN\Vorozheikin\Triangle_1lab\obj\Debug\net6.0\Triangle_1lab.pdb
 G:\DanilovMN\Vorozheikin\Triangle_1lab\obj\Debug\net6.0\Triangle_1lab.genruntimeconfig.cache
 G:\DanilovMN\Vorozheikin\Triangle_1lab\obj\Debug\net6.0\ref\Triangle_1lab.dll
+G:\DanilovMN\Vorozheikin\Triangle_1lab\bin\Debug\net6.0\Serilog.dll
+G:\DanilovMN\Vorozheikin\Triangle_1lab\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+G:\DanilovMN\Vorozheikin\Triangle_1lab\bin\Debug\net6.0\Serilog.Sinks.File.dll
+G:\DanilovMN\Vorozheikin\Triangle_1lab\obj\Debug\net6.0\Triangle_1lab.csproj.CopyComplete
